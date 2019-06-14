@@ -1,0 +1,46 @@
+{
+  "questions": [
+    {
+      "id": "1",
+      "value": "Question 1",
+      "answers": [
+        {
+          "value": "Yes",
+          "next": 2
+        },
+        {
+          "value": "No",
+          "next": 3
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "value": "Question 2",
+      "answers": [
+        {
+          "value": "Yes",
+          "next": 2
+        },
+        {
+          "value": "No",
+          "next": 1
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "value": "Question 3",
+      "answers": [
+        {
+          "value": "Yes",
+          "next": 1
+        },
+        {
+          "value": "No",
+          "next": 2
+        }
+      ]
+    }
+  ]
+}
